@@ -1,4 +1,4 @@
-export default function Item() {
+export default function Cart() {
     return (
       <>
         <div className="p-2 flex justify-center  ">
