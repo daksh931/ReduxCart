@@ -7,7 +7,7 @@ const  CartButton = (props) => {
 
     const toggleCartHandler = () =>{
         dispatch(uiSliceAction.toggle());
-    }; 
+    };   
 
     return (<>
         <div className="flex flex-col w-full py-2">
